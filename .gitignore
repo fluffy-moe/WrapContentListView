@@ -80,6 +80,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-
-mainpackage/src/main/res/raw/*.json
-!mainpackage/src/main/res/raw/*_sample.json
+WrapContentListView.iml
+.idea/gradle.xml
+.idea/codeStyles/Project.xml
+app/app.iml
